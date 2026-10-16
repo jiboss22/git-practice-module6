@@ -8,7 +8,7 @@ No outside packages are required.
 def show_project_info():
     """Display basic information about this version-control exercise."""
     project_name = "Git Practice Lab"
-    version = "1.1"
+    version = "1.2"
     print(f"Project: {project_name}")
     print(f"Version: {version}")
     print("Git helps track changes in a software project.")
