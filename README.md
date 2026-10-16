@@ -1,1 +1,2 @@
-# git-practice-module6
+Module 6 Git and GitHub practice
+
